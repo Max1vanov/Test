@@ -3,5 +3,7 @@ class NewClass {
 		System.out.println("Hello world!;");
 		System.out.println("Hello everybody;");
 		System.out.println("Hello;");
+		System.out.println("Hi;");
+		System.out.println("haw are you?;");
 	}
 }
